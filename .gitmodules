@@ -1,0 +1,6 @@
+[submodule "ashaTai-frontend"]
+	path = ashaTai-frontend
+	url = https://github.com/vaibhav25-mnnit/ashaTai-frontend.git
+[submodule "ashaTai-backend"]
+	path = ashaTai-backend
+	url = https://github.com/vaibhav25-mnnit/ashaTai-backend.git
