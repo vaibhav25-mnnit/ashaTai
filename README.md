@@ -1,1 +1,1 @@
-deployed here:- https://asha-mwnkbycsu-vaibhav-bagates-projects.vercel.app/
+deployed here:- https://asha-tai.vercel.app/
