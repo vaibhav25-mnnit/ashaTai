@@ -1,5 +1,7 @@
 ![AshaTai Logo](https://github.com/vaibhav25-mnnit/ashaTai-frontend/blob/master/src/images/logo2.png)
+
 # AshaTai: Homemade Snacks and Food Website
+
 <br/>This repo contains the code for the frontend and backend of AshaTai, a website that sells homemade snacks and food.<br/> The website is hosted on [https://asha-tai.vercel.app/](https://asha-tai.vercel.app/).
 
 ## Table of Contents
@@ -89,7 +91,6 @@ To run the project, you'll need to add the following environment variables to yo
 - `REACT_FIREBASE_APPID`: The app ID for your Firebase project.
 - `REACT_APP_ADD_PRODUCT_PASSWORD`: The password for admin to add new password
 
-
 ### Backend
 
 - `MONGODB_DATABASE_URL`: your_mongodb_url.
@@ -98,13 +99,22 @@ To run the project, you'll need to add the following environment variables to yo
 - `NODEMAILER_MAIL`: your_email_to_send_mails.
 - `NODEMAILER_MAIL_PASSWARD`: your_mail_passward.
 
-## Screenshots and Video Demo
+## Demo
 
-Add screenshots and a video demo of the app here.
+### Overview of HomePage
+
+![Watch the video](./resources/scroll.gif)
+
+### Filtering on products
+
+![Watch the video](./resources/filters.gif)
+
+### Ordering of product with payment thorugh cashfree drop component
+
+![Watch the video](./resources/order.gif)
 
 ## License
 
 This project is licensed under the MIT License.
 
-
-Made with ❤️ by [@vaibhav25-mnnit](https://github.com/vaibhav25-mnnit) 
+Made with ❤️ by [@vaibhav25-mnnit](https://github.com/vaibhav25-mnnit)
