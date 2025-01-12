@@ -1,4 +1,4 @@
-![AshaTai Logo](https://github.com/vaibhav25-mnnit/ashaTai-frontend/blob/master/src/images/logo2.png)
+![AshaTai Logo](https://github.com/vaibhav25-mnnit/ashaTai-frontend/blob/master/src/images/logo.png)
 
 # AshaTai: Homemade Snacks and Food Website
 
